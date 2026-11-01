@@ -1,0 +1,10 @@
+{
+  "name": "sbtv15",
+  "version": "15.0.0",
+  "description": "SBTV15",
+  "packageType": "app",
+  "appName": "SBTV15",
+  "appPath": "app/p15.html",
+  "serviceFile": "c15.js",
+  "keys": []
+}
